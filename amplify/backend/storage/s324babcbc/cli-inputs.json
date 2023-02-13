@@ -1,0 +1,14 @@
+{
+  "resourceName": "s324babcbc",
+  "policyUUID": "24babcbc",
+  "bucketName": "forumclientf09a97b6e24c4a1994312c4857e67412",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

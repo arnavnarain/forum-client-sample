@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "forumclient74155b07": {}
+      },
+      "api": {
+        "forumclient": {}
+      },
+      "storage": {
+        "s324babcbc": {}
       }
     }
   }
